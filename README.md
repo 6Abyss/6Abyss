@@ -23,6 +23,7 @@
   <br />
   <code><img width="10%" src="https://cdn.cdnlogo.com/logos/c/27/c.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 </p>
 
 
