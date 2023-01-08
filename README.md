@@ -32,7 +32,7 @@
 I created these images, feel free to use them.
 -->
 <p align="center">
-  <a href="https://discord.gg/ucwDxD2sjq" target="_blank">
+  <a href="https://discord.gg/DePnyvB77X" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://cdn.discordapp.com/attachments/1034378037443178546/1034585101750767670/discord-button.png"/>
   </a>
 </p>
